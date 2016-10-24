@@ -1,4 +1,4 @@
-# PAM-ESP-Webserver
+# PAM-ESP-WS2812
 
 Arduino IDE code for the ESP8266 to light up a circle of WS2812 leds
 
